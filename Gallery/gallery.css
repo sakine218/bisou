@@ -66,6 +66,20 @@ nav ul li a:hover {
   color: #B00657;
 }
 
+.gallery {
+  margin: 100px auto;
+  width: 80%;
+}
+
+.gallery .content img {
+
+}
+
+.gallery .content p {
+  width: 100%;
+  text-align: center;
+}
+
 @media screen and (max-width: 1024px) {
   /* 1024pxまでの幅の場合に適応される */
 }
