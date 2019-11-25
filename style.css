@@ -62,6 +62,15 @@ nav ul li a:hover {
   transition: .3s;
 }
 
+.hero {
+  margin: 100px auto;
+  width: 40%;
+}
+
+.hero img {
+  width: 100%;
+}
+
 @media screen and (max-width: 1024px) {
   /* 1024pxまでの幅の場合に適応される */
 }
@@ -206,6 +215,11 @@ nav ul li a:hover {
     padding: 12px 20px;
     font-size: 20px;
     text-align: right;
+  }
+
+  .hero {
+    margin: 50px auto;
+    width: 80%;
   }
 }
 
